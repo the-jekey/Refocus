@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className='max-w-screen-xl mx-auto p-3 flex justify-between text-white border-b-2  border-zinc-600' >
       <div className="left flex items-center">  
-        <div className="logo">
+        <div className="logo logo logo ">
           <svg className='w-4' viewBox="0 0 15 19" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" clip-rule="evenodd" d="M0.491027 5.74153C1.14573 5.12319 2.20721 5.1232 2.86191 5.74153L14.0384 16.2971C14.6931 16.9154 14.6931 17.9179 14.0384 18.5363C13.3837 19.1546 12.3222 19.1546 11.6675 18.5363L0.491027 7.9807C-0.163676 7.36237 -0.163676 6.35985 0.491027 5.74153Z" fill="currentColor"></path>
             <path fill-rule="evenodd" clip-rule="evenodd" d="M1.45464e-07 1.58333C1.45464e-07 0.708882 0.750582 0 1.67647 0H12.8529C13.7788 0 14.5294 0.708882 14.5294 1.58333C14.5294 2.45778 13.7788 3.16667 12.8529 3.16667H1.67647C0.750582 3.16667 1.45464e-07 2.45778 1.45464e-07 1.58333Z" fill="currentColor"></path>
